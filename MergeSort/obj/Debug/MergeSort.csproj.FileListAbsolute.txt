@@ -1,0 +1,14 @@
+c:\users\peter husman\documents\visual studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+c:\users\peter husman\documents\visual studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+c:\users\peter husman\documents\visual studio 2017\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+c:\users\peter husman\documents\visual studio 2017\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+c:\users\peter husman\documents\visual studio 2017\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+c:\users\peter husman\documents\visual studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+c:\users\peter husman\documents\visual studio 2017\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
+C:\Users\Peter Husman\Documents\GitHub\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Peter Husman\Documents\GitHub\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Peter Husman\Documents\GitHub\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Peter Husman\Documents\GitHub\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Peter Husman\Documents\GitHub\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Peter Husman\Documents\GitHub\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Peter Husman\Documents\GitHub\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
